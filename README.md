@@ -1,5 +1,12 @@
 # Auditoría Hub 🕵️‍♀️📋
 
+
+
+
+
+<img width="500" height="500" alt="Badge-Spring" src="https://github.com/user-attachments/assets/1e25c36a-4d93-407d-9068-af833c66d051" />
+
+
 Plataforma para gestionar **auditorías internas/externas**, hallazgos, planes de acción y el ciclo completo de seguimiento. Pensada para equipos de calidad, seguridad de la información (ISO 27001), HSE, financiera y cumplimiento.
 
 ---
