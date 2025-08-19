@@ -194,21 +194,6 @@ docker build -t auditoria-hub:latest .
 docker run -p 8080:8080 --env JWT_SECRET=change-me auditoria-hub:latest
 ```
 
----
 
-## 🧪 Pruebas
-
-* **Unitarias** con JUnit 5 y Mockito.
-* **Integración** con Spring Boot Test (perfiles `test`).
-* **Carga** (opcional) con JMeter/Gatling para endpoints críticos.
-
----
-
-## 📊 KPIs sugeridos
-
-* % auditorías cerradas en fecha.
-* Tiempo medio de cierre de NCs.
-* NCs por severidad y proceso.
-* Cumplimiento de planes de acción.
 
 
